@@ -1,2 +1,0 @@
-fourth file text
-this file modified in the feature branch
